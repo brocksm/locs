@@ -1,0 +1,64 @@
+ship_to_city,ship_to_state,to_lat,to_lon,f0_
+Fort Wayne,IN,41.0254,-85.21,"138,257"
+Las Vegas,NV,36.3194,-115.0229,"34,545"
+Park City,KS,37.7719,-97.3193,176
+Visalia,CA,36.3696,-119.38,4
+Aurora,IL,41.7845,-88.25,6
+Monroe,OH,40.4173,-82.9071,104
+Edgerton,KS,38.7811,-95.0078,18
+Joliet,IL,40.6331,-89.3985,"114,732"
+Stockton,CA,37.9551,-121.12,"259,914"
+Memphis,TN,35.5175,-86.5804,"61,937"
+Goodyear,AZ,33.479,-112.39,"35,275"
+Dupont,WA,47.7511,-120.7401,196
+North Little Rock,AR,34.7777,-92.1254,28
+North Las Vegas,NV,36.2666,-115.08,128
+Burlington,NJ,40.068,-74.839,152
+Swedesboro,NJ,39.7529,-75.31,18
+Deltona,FL,27.6648,-81.5158,82
+Jefferson,GA,32.1574,-82.9071,20
+Castleton-On-Hudson,NY,43.2994,-74.2179,20
+San Antonio,TX,29.4189,-98.73,264
+Livonia,MI,44.3148,-85.6024,518
+Schertz,TX,31.9686,-99.9018,68
+Lewisberry,PA,41.2033,-77.1945,448
+Redlands,CA,36.7783,-119.4179,236
+Olive Branch,MS,32.3547,-89.3985,52
+Henderson,NV,38.8026,-116.4194,"312,675"
+Fontana,CA,36.7783,-119.4179,"24,194"
+Auburndale,FL,27.6648,-81.5158,248
+Republic,MO,37.1381,-93.47,30
+Kansas City,KS,39.1584,-94.83,44
+Rock Tavern,NY,41.4773,-74.1592,386
+Turlock,CA,37.4888,-120.85,86
+Carlisle,PA,41.2033,-77.1945,34
+Rialto,CA,36.7783,-119.4179,"53,787"
+Charlotte,NC,35.7596,-79.0193,"129,270"
+Eastvale,CA,36.7783,-119.4179,510
+Fargo,ND,46.9223,-96.83,20
+Greenfield,IN,40.5512,-85.6024,"177,758"
+Bloomington,CA,34.0662,-117.39,"60,395"
+Tracy,CA,36.7783,-119.4179,64
+Shelby Township,MI,44.3148,-85.6024,48
+Beloit,WI,43.7844,-88.7879,8
+Carson,CA,33.8232,-118.2585,250
+Monroe,OH,40.4173,-82.9071,54
+New Castle,DE,39.6318,-75.57,42
+Greenwood,IN,40.5512,-85.6024,"133,911"
+Lakeland,FL,27.6648,-81.5158,374
+Patterson,CA,36.7783,-119.4179,62
+Coppell,TX,31.9686,-99.9018,58
+Fresno,TX,29.5317,-95.45,62
+Forney,TX,32.7543,-96.46,118
+Chesapeake,VA,36.8033,-76.42,"369,075"
+West Jordan,UT,39.321,-111.0937,32
+San Bernardino,CA,36.7783,-119.4179,104
+Penns Grove,NJ,39.7295,-75.46,46
+Stockton,CA,36.7783,-119.4179,"140,743"
+Phoenix,AZ,34.0489,-111.0937,"76,216"
+Moreno Valley,CA,36.7783,-119.4179,"29,740"
+Somerset,NJ,40.5007,-74.48,"33,688"
+Florence,NJ,40.1181,-74.8,"47,364"
+Savannah,GA,32.1574,-82.9071,"3,490"
+Dallas,TX,32.6722,-96.76,"110,259"
+Hazleton,PA,41.2033,-77.1945,"104,580"
