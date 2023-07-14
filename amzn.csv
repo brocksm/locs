@@ -1,8 +1,8 @@
 ship_to_city,ship_to_state,to_lat,to_lon,vol
-Fort Wayne,IN,41.0254,-85.21,"138,257"
-Las Vegas,NV,36.3194,-115.0229,"34,545"
+Fort Wayne,IN,41.0793,-85.1394,138257
+Las Vegas,NV,36.1716,-115.1391,34545
 Park City,KS,37.7719,-97.3193,176
-Visalia,CA,36.3696,-119.38,4
+Visalia,CA,36.3301,-119.2966,4
 Aurora,IL,41.7845,-88.25,6
 Monroe,OH,40.4173,-82.9071,104
 Edgerton,KS,38.7811,-95.0078,18
@@ -30,21 +30,21 @@ Auburndale,FL,27.6648,-81.5158,248
 Republic,MO,37.1381,-93.47,30
 Kansas City,KS,39.1584,-94.83,44
 Rock Tavern,NY,41.4773,-74.1592,386
-Turlock,CA,37.4888,-120.85,86
+Turlock,CA,37.4946,-120.8460,86
 Carlisle,PA,41.2033,-77.1945,34
 Rialto,CA,36.7783,-119.4179,"53,787"
 Charlotte,NC,35.7596,-79.0193,"129,270"
-Eastvale,CA,36.7783,-119.4179,510
+Eastvale,CA,33.9525,-117.5848,510
 Fargo,ND,46.9223,-96.83,20
-Greenfield,IN,40.5512,-85.6024,"177,758"
-Bloomington,CA,34.0662,-117.39,"60,395"
+Greenfield,IN,39.7850,-85.7694,"177,758"
+Bloomington,CA,34.0703,-117.3959,"60,395"
 Tracy,CA,36.7783,-119.4179,64
 Shelby Township,MI,44.3148,-85.6024,48
 Beloit,WI,43.7844,-88.7879,8
 Carson,CA,33.8232,-118.2585,250
 Monroe,OH,40.4173,-82.9071,54
 New Castle,DE,39.6318,-75.57,42
-Greenwood,IN,40.5512,-85.6024,"133,911"
+Greenwood,IN,39.6137,-86.1067,"133,911"
 Lakeland,FL,27.6648,-81.5158,374
 Patterson,CA,36.7783,-119.4179,62
 Coppell,TX,31.9686,-99.9018,58
