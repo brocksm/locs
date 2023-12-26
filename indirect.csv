@@ -1,113 +1,109 @@
-ice_customer_name,ship_to,ship_to_coords,number_of_pallets
-Home Depot,"Breinigsville, PA","[-75.6347,40.5394]",42.6
-Home Depot,"Dallas, TX","[-96.7667,32.7935]",46.9
-Home Depot,"Hagerstown, MD","[-77.7217,39.6401]",1.4
-Home Depot,"Hialeah, FL","[-80.3045,25.8696]",0.9
-Home Depot,"Houston, TX","[-95.3885,29.786]",45.0
-Home Depot,"Joliet, IL","[-88.1499,41.5188]",38.0
-Home Depot,"Lacey, WA","[-122.7933,47.0462]",2.2
-Home Depot,"Lake Park, GA","[-83.1873,30.6851]",53.0
-Home Depot,"Locust Grove, GA","[-84.1071,33.3446]",65.9
-Home Depot,"Luckey, OH","[-83.4839,41.4525]",28.2
-Home Depot,"Mc Calla, AL","[-87.0140, 33.3451]",33.5
-Home Depot,"Monroe, OH","[-84.3667,39.4461]",28.7
-Home Depot,"Northlake, IL","[-87.9054,41.9142]",7.6
-Home Depot,"Ontario, CA","[-117.6064,34.0393]",37.7
-Home Depot,"Perris, CA","[-117.2233,33.7898]",21.6
-Home Depot,"Perth Amboy, NJ","[-74.2724,40.5202]",9.3
-Home Depot,"Pittston Township, PA","[-75.7230, 41.3029]",47.1
-Home Depot,"Plant City, FL","[-82.1201,28.014]",13.6
-Home Depot,"Redlands, CA","[-117.1712,34.0512]",34.8
-Home Depot,"Salem, OR","[-123.0244,44.9233]",22.0
-Home Depot,"Sparrows Point, MD","[-76.4807, 39.2261]",2.3
-Home Depot,"Tewksbury, MA","[-71.2342, 42.6106]",11.5
-Home Depot,"Tolleson, AZ","[-112.256,33.4484]",17.2
-Home Depot,"Topeka, KS","[-95.6955,39.0346]",25.8
-Home Depot,"Tracy, CA","[-121.4523,37.7269]",39.6
-Home Depot,"Van Buren, OH","[-83.6494,41.1387]",31.0
-Home Depot,"West Columbia, SC","[-81.0936,33.9932]",25.3
-Home Depot,"West Jefferson, OH","[-83.3076,39.9475]",0.4
-Home Depot,"Westfield, MA","[-72.7561,42.1382]",54.1
-Home Depot,"Winchester, VA","[-78.1746,39.1735]",33.9
-Target,"Albany, OR","[-123.0965,44.6272]",14.4
-Target,"Amsterdam, NY","[-74.1906,42.942]",29.5
-Target,"Cedar Falls, IA","[-92.4536,42.5195]",14.6
-Target,"Chambersburg, PA","[-77.6556,39.9315]",15.2
-Target,"Chicago, IL","[-87.6866,41.8375]",4.8
-Target,"Fontana, CA","[-117.4599,34.0968]",13.3
-Target,"Fridley, MN","[-93.2595,45.0841]",8.6
-Target,"Galesburg, MI","[-85.4182,42.2911]",11.6
-Target,"Gansevoort, NY","[-73.6518, 43.1962]",21.2
-Target,"Indianapolis, IN","[-86.1458,39.7771]",10.9
-Target,"Logan, NJ","[-75.3492, 39.7847]",7.9
-Target,"Lugoff, SC","[-80.6973,34.2113]",18.7
-Target,"Madison, AL","[-86.7626,34.7114]",14.4
-Target,"Midlothian, TX","[-96.989,32.4669]",14.1
-Target,"Midway, GA","[-81.419,31.8003]",17.0
-Target,"Newton, NC","[-81.2335,35.663]",18.4
-Target,"Oconomowoc, WI","[-88.4948,43.0996]",13.9
-Target,"Phoenix, AZ","[-112.0892,33.5722]",10.6
-Target,"Pueblo, CO","[-104.6114,38.2701]",10.2
-Target,"Rialto, CA","[-117.3892,34.1175]",17.2
-Target,"Riverside, CA","[-117.3949,33.9381]",1.3
-Target,"Shafter, CA","[-119.2013,35.4794]",16.8
-Target,"Stuarts Draft, VA","[-79.0354,38.0188]",19.5
-Target,"Tifton, GA","[-83.5203,31.4624]",18.7
-Target,"Topeka, KS","[-95.6955,39.0346]",14.5
-Target,"Tyler, TX","[-95.3062,32.3184]",23.3
-Target,"West Jefferson, OH","[-83.3076,39.9475]",12.5
-Target,"Woodland, CA","[-121.75,38.6712]",26.9
-Wal-Mart US,"Alachua, FL","[-82.4832,29.7779]",11.0
-Wal-Mart US,"Apple Valley, CA","[-117.2109,34.5352]",9.8
-Wal-Mart US,"Beaver Dam, WI","[-88.8309,43.4688]",4.6
-Wal-Mart US,"Bentonville, AR","[-94.2305,36.3547]",7.3
-Wal-Mart US,"Bethlehem, PA","[-75.3679,40.6266]",0.7
-Wal-Mart US,"Brookhaven, MS","[-90.4432,31.5803]",3.6
-Wal-Mart US,"Brooksville, FL","[-82.3903,28.5404]",8.9
-Wal-Mart US,"Buckeye, AZ","[-112.6429,33.4314]",7.0
-Wal-Mart US,"Chino, CA","[-117.6654,33.9836]",0.2
-Wal-Mart US,"Coldwater, MI","[-84.9989,41.9465]",6.5
-Wal-Mart US,"Cullman, AL","[-86.8407,34.1775]",6.7
-Wal-Mart US,"Douglas, GA","[-82.8544,31.5065]",5.4
-Wal-Mart US,"Fort Pierce, FL","[-80.3431,27.4255]",5.6
-Wal-Mart US,"Fort Worth, TX","[-97.3474,32.7817]",0.2
-Wal-Mart US,"Ft Pierce, FL","[-80.3256, 27.4467]",2.9
-Wal-Mart US,"Grantsville, UT","[-112.4777,40.6148]",6.3
-Wal-Mart US,"Grove City, OH","[-83.069,39.8654]",6.1
-Wal-Mart US,"Hermiston, OR","[-119.2854,45.8326]",6.6
-Wal-Mart US,"Hope Mills, NC","[-78.9597,34.971]",5.6
-Wal-Mart US,"Hopkinsville, KY","[-87.4775,36.8381]",7.3
-Wal-Mart US,"Jolie, IL","[-88.0817, 41.5250]",0.2
-Wal-Mart US,"La Grange, GA","[-85.0322, 33.0362]",2.7
-Wal-Mart US,"Lagrange, GA","[-85.0384,33.0274]",3.6
-Wal-Mart US,"Lebanon, TN","[-86.3481,36.204]",0.1
-Wal-Mart US,"Loveland, CO","[-105.0623,40.4166]",6.1
-Wal-Mart US,"Marcy, NY","[-75.268,43.1373]",7.7
-Wal-Mart US,"Mccordsville, IN","[-85.9208,39.8966]",0.3
-Wal-Mart US,"Menomonie, WI","[-91.9084,44.8893]",5.0
-Wal-Mart US,"Midway, TN","[-82.9962, 36.1766]",5.3
-Wal-Mart US,"Mount Crawford, VA","[-78.9413,38.3601]",3.3
-Wal-Mart US,"Mount Pleasant, IA","[-91.5452,40.9625]",3.5
-Wal-Mart US,"Mt. Crawford, VA","[-78.9409, 38.3571]",2.7
-Wal-Mart US,"New Braunfels, TX","[-98.1148,29.6994]",7.7
-Wal-Mart US,"Opelousas, LA","[-92.0816,30.5252]",3.5
-Wal-Mart US,"Ottawa, KS","[-95.2636,38.5996]",6.9
-Wal-Mart US,"Palestine, TX","[-95.6471,31.7544]",4.5
-Wal-Mart US,"Plainview, TX","[-101.7235,34.1911]",6.5
-Wal-Mart US,"Porterville, CA","[-119.0338,36.0643]",7.0
-Wal-Mart US,"Raymond, NH","[-71.1834, 43.0362]",7.8
-Wal-Mart US,"Red Bluff, CA","[-122.2413,40.1735]",7.5
-Wal-Mart US,"Sanger, TX","[-97.1678,33.3715]",8.9
-Wal-Mart US,"Sealy, TX","[-96.163,29.7662]",5.6
-Wal-Mart US,"Searcy, AR","[-91.7351,35.2418]",4.7
-Wal-Mart US,"Seymour, IN","[-85.8911,38.9476]",5.4
-Wal-Mart US,"Shelby, NC","[-81.5451,35.2904]",6.5
-Wal-Mart US,"Smyrna, DE","[-75.6083,39.2935]",8.7
-Wal-Mart US,"Sparks, NV","[-119.7161,39.5736]",0.1
-Wal-Mart US,"Spring Valley, IL","[-89.2038,41.3362]",9.2
-Wal-Mart US,"St James, MO","[-91.6143, 37.9973]",2.5
-Wal-Mart US,"St. James, MO","[-91.6154,38.0013]",2.0
-Wal-Mart US,"Sutherland, VA","[-77.5597, 37.1960]",5.4
-Wal-Mart US,"Tobyhanna, PA","[-75.4179, 41.1798]",14.9
-Wal-Mart US,"Troutman, NC","[-80.883,35.6873]",0.1
-Wal-Mart US,"Woodland, PA","[-78.3414, 40.9984]",7.2
+ice_customer_name,ship_to,ship_to_coords,number_of_pallets,indirect,indirect_coords
+Home Depot,"Breinigsville, PA","[-75.6347,40.5394]",42.6,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Dallas, TX","[-96.7667,32.7935]",46.9,Southaven,"[-90.0023,34.9919]"
+Home Depot,"Hagerstown, MD","[-77.7217,39.6401]",1.4,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Hialeah, FL","[-80.3045,25.8696]",0.9,Miami,"[-80.1918,25.7617]"
+Home Depot,"Houston, TX","[-95.3885,29.786]",45.0,Southaven,"[-90.0023,34.9919]"
+Home Depot,"Joliet, IL","[-88.1499,41.5188]",38.0,Romeoville,"[-88.0895,41.6475]"
+Home Depot,"Lacey, WA","[-122.7933,47.0462]",2.2,Chino,"[-117.6889,34.0122]"
+Home Depot,"Lake Park, GA","[-83.1873,30.6851]",53.0,Miami,"[-80.1918,25.7617]"
+Home Depot,"Locust Grove, GA","[-84.1071,33.3446]",65.9,Miami,"[-80.1918,25.7617]"
+Home Depot,"Luckey, OH","[-83.4839,41.4525]",28.2,Columbus,"[-82.9988,39.9612]"
+Home Depot,"Mc Calla, AL","[-87.0140, 33.3451]",33.5,Southaven,"[-90.0023,34.9919]"
+Home Depot,"Monroe, OH","[-84.3667,39.4461]",28.7,Columbus,"[-82.9988,39.9612]"
+Home Depot,"Northlake, IL","[-87.9054,41.9142]",7.6,Romeoville,"[-88.0895,41.6475]"
+Home Depot,"Ontario, CA","[-117.6064,34.0393]",37.7,Chino,"[-117.6889,34.0122]"
+Home Depot,"Perris, CA","[-117.2233,33.7898]",21.6,Chino,"[-117.6889,34.0122]"
+Home Depot,"Perth Amboy, NJ","[-74.2724,40.5202]",9.3,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Pittston Township, PA","[-75.7230, 41.3029]",47.1,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Plant City, FL","[-82.1201,28.014]",13.6,Miami,"[-80.1918,25.7617]"
+Home Depot,"Redlands, CA","[-117.1712,34.0512]",34.8,Chino,"[-117.6889,34.0122]"
+Home Depot,"Salem, OR","[-123.0244,44.9233]",22.0,Chino,"[-117.6889,34.0122]"
+Home Depot,"Sparrows Point, MD","[-76.4807, 39.2261]",2.3,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Tewksbury, MA","[-71.2342, 42.6106]",11.5,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Tolleson, AZ","[-112.256,33.4484]",17.2,Chino,"[-117.6889,34.0122]"
+Home Depot,"Topeka, KS","[-95.6955,39.0346]",25.8,Romeoville,"[-88.0895,41.6475]"
+Home Depot,"Tracy, CA","[-121.4523,37.7269]",39.6,Chino,"[-117.6889,34.0122]"
+Home Depot,"Van Buren, OH","[-83.6494,41.1387]",31.0,Columbus,"[-82.9988,39.9612]"
+Home Depot,"West Columbia, SC","[-81.0936,33.9932]",25.3,Columbus,"[-82.9988,39.9612]"
+Home Depot,"West Jefferson, OH","[-83.3076,39.9475]",0.4,Columbus,"[-82.9988,39.9612]"
+Home Depot,"Westfield, MA","[-72.7561,42.1382]",54.1,Monroe Township,"[-74.4330,40.3364]"
+Home Depot,"Winchester, VA","[-78.1746,39.1735]",33.9,Columbus,"[-82.9988,39.9612]"
+Target,"Albany, OR","[-123.0965,44.6272]",14.4,Chino,"[-117.6889,34.0122]"
+Target,"Amsterdam, NY","[-74.1906,42.942]",29.5,Monroe Township,"[-74.4330,40.3364]"
+Target,"Cedar Falls, IA","[-92.4536,42.5195]",14.6,Romeoville,"[-88.0895,41.6475]"
+Target,"Chambersburg, PA","[-77.6556,39.9315]",15.2,Monroe Township,"[-74.4330,40.3364]"
+Target,"Chicago, IL","[-87.6866,41.8375]",4.8,Romeoville,"[-88.0895,41.6475]"
+Target,"Fontana, CA","[-117.4599,34.0968]",13.3,Chino,"[-117.6889,34.0122]"
+Target,"Fridley, MN","[-93.2595,45.0841]",8.6,Romeoville,"[-88.0895,41.6475]"
+Target,"Galesburg, MI","[-85.4182,42.2911]",11.6,Columbus,"[-82.9988,39.9612]"
+Target,"Gansevoort, NY","[-73.6518, 43.1962]",21.2,Monroe Township,"[-74.4330,40.3364]"
+Target,"Indianapolis, IN","[-86.1458,39.7771]",10.9,Columbus,"[-82.9988,39.9612]"
+Target,"Logan, NJ","[-75.3492, 39.7847]",7.9,Monroe Township,"[-74.4330,40.3364]"
+Target,"Lugoff, SC","[-80.6973,34.2113]",18.7,Columbus,"[-82.9988,39.9612]"
+Target,"Madison, AL","[-86.7626,34.7114]",14.4,Southaven,"[-90.0023,34.9919]"
+Target,"Midlothian, TX","[-96.989,32.4669]",14.1,Southaven,"[-90.0023,34.9919]"
+Target,"Midway, GA","[-81.419,31.8003]",17.0,Miami,"[-80.1918,25.7617]"
+Target,"Newton, NC","[-81.2335,35.663]",18.4,Columbus,"[-82.9988,39.9612]"
+Target,"Oconomowoc, WI","[-88.4948,43.0996]",13.9,Romeoville,"[-88.0895,41.6475]"
+Target,"Phoenix, AZ","[-112.0892,33.5722]",10.6,Chino,"[-117.6889,34.0122]"
+Target,"Pueblo, CO","[-104.6114,38.2701]",10.2,Chino,"[-117.6889,34.0122]"
+Target,"Rialto, CA","[-117.3892,34.1175]",17.2,Chino,"[-117.6889,34.0122]"
+Target,"Riverside, CA","[-117.3949,33.9381]",1.3,Chino,"[-117.6889,34.0122]"
+Target,"Shafter, CA","[-119.2013,35.4794]",16.8,Chino,"[-117.6889,34.0122]"
+Target,"Stuarts Draft, VA","[-79.0354,38.0188]",19.5,Columbus,"[-82.9988,39.9612]"
+Target,"Tifton, GA","[-83.5203,31.4624]",18.7,Miami,"[-80.1918,25.7617]"
+Target,"Topeka, KS","[-95.6955,39.0346]",14.5,Romeoville,"[-88.0895,41.6475]"
+Target,"Tyler, TX","[-95.3062,32.3184]",23.3,Southaven,"[-90.0023,34.9919]"
+Target,"West Jefferson, OH","[-83.3076,39.9475]",12.5,Columbus,"[-82.9988,39.9612]"
+Target,"Woodland, CA","[-121.75,38.6712]",26.9,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Alachua, FL","[-82.4832,29.7779]",11.0,Miami,"[-80.1918,25.7617]"
+Wal-Mart US,"Apple Valley, CA","[-117.2109,34.5352]",9.8,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Beaver Dam, WI","[-88.8309,43.4688]",4.6,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Bentonville, AR","[-94.2305,36.3547]",7.3,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Bethlehem, PA","[-75.3679,40.6266]",0.7,Monroe Township,"[-74.4330,40.3364]"
+Wal-Mart US,"Brookhaven, MS","[-90.4432,31.5803]",3.6,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Brooksville, FL","[-82.3903,28.5404]",8.9,Miami,"[-80.1918,25.7617]"
+Wal-Mart US,"Buckeye, AZ","[-112.6429,33.4314]",7.0,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Chino, CA","[-117.6654,33.9836]",0.2,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Coldwater, MI","[-84.9989,41.9465]",6.5,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Cullman, AL","[-86.8407,34.1775]",6.7,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Douglas, GA","[-82.8544,31.5065]",5.4,Miami,"[-80.1918,25.7617]"
+Wal-Mart US,"Fort Pierce, FL","[-80.3431,27.4255]",8.5,Miami,"[-80.1918,25.7617]"
+Wal-Mart US,"Fort Worth, TX","[-97.3474,32.7817]",0.2,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Grantsville, UT","[-112.4777,40.6148]",6.3,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Grove City, OH","[-83.069,39.8654]",6.1,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Hermiston, OR","[-119.2854,45.8326]",6.6,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Hope Mills, NC","[-78.9597,34.971]",5.6,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Hopkinsville, KY","[-87.4775,36.8381]",7.3,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Joliet, IL","[-88.0817, 41.5250]",0.2,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Lagrange, GA","[-85.0384,33.0274]",6.3,Miami,"[-80.1918,25.7617]"
+Wal-Mart US,"Lebanon, TN","[-86.3481,36.204]",0.1,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Loveland, CO","[-105.0623,40.4166]",6.1,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Marcy, NY","[-75.268,43.1373]",7.7,Monroe Township,"[-74.4330,40.3364]"
+Wal-Mart US,"Mccordsville, IN","[-85.9208,39.8966]",0.3,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Menomonie, WI","[-91.9084,44.8893]",5.0,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Midway, TN","[-82.9962, 36.1766]",5.3,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Mount Crawford, VA","[-78.9413,38.3601]",6.0,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Mount Pleasant, IA","[-91.5452,40.9625]",3.5,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"New Braunfels, TX","[-98.1148,29.6994]",7.7,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Opelousas, LA","[-92.0816,30.5252]",3.5,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Ottawa, KS","[-95.2636,38.5996]",6.9,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Palestine, TX","[-95.6471,31.7544]",4.5,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Plainview, TX","[-101.7235,34.1911]",6.5,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Porterville, CA","[-119.0338,36.0643]",7.0,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Raymond, NH","[-71.1834, 43.0362]",7.8,Monroe Township,"[-74.4330,40.3364]"
+Wal-Mart US,"Red Bluff, CA","[-122.2413,40.1735]",7.5,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Sanger, TX","[-97.1678,33.3715]",8.9,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Sealy, TX","[-96.163,29.7662]",5.6,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Searcy, AR","[-91.7351,35.2418]",4.7,Southaven,"[-90.0023,34.9919]"
+Wal-Mart US,"Seymour, IN","[-85.8911,38.9476]",5.4,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Shelby, NC","[-81.5451,35.2904]",6.5,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Smyrna, DE","[-75.6083,39.2935]",8.7,Monroe Township,"[-74.4330,40.3364]"
+Wal-Mart US,"Sparks, NV","[-119.7161,39.5736]",0.1,Chino,"[-117.6889,34.0122]"
+Wal-Mart US,"Spring Valley, IL","[-89.2038,41.3362]",9.2,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"St. James, MO","[-91.6154,38.0013]",4.5,Romeoville,"[-88.0895,41.6475]"
+Wal-Mart US,"Sutherland, VA","[-77.5597, 37.1960]",5.4,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Tobyhanna, PA","[-75.4179, 41.1798]",14.9,Monroe Township,"[-74.4330,40.3364]"
+Wal-Mart US,"Troutman, NC","[-80.883,35.6873]",0.1,Columbus,"[-82.9988,39.9612]"
+Wal-Mart US,"Woodland, PA","[-78.3414, 40.9984]",7.2,Monroe Township,"[-74.4330,40.3364]"
